@@ -8,7 +8,7 @@ This Datasets from zawya.com for Saudi companies Zawya.com is a fantastic resour
 # Sources
 [zawya](https://www.zawya.com/en/saudi-arabia)
 
-[stackoverflow](https://stackoverflow.com/questions/tagged/jupyter-notebook)-Right You Error if you are facing problems during coding its helpful.
+[stackoverflow](https://stackoverflow.com/questions/tagged/jupyter-notebook)- Right You Error if you are facing problems during coding its helpful.
 
 [towardsdatascience](https://towardsdatascience.com/)
 
